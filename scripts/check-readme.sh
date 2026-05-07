@@ -26,4 +26,8 @@ echo "Checking README.md..."
 
 # === Section checks added per task ===
 
+# Task 2: Banner
+check "banner: capsule-render"     "capsule-render.vercel.app/api"
+check "banner: typing svg"         "readme-typing-svg.demolab.com"
+
 echo "All checks passed."
