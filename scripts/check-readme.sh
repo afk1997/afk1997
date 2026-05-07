@@ -34,4 +34,10 @@ check "banner: typing svg"         "readme-typing-svg.demolab.com"
 check "status: open_to_work"       "open__to__work"
 check "status: open_to_collab"     "open__to__collab"
 
+# Task 4: What I do — modules
+check "module: outbound"           "/outbound"
+check "module: revops"             "/revops"
+check "module: inbound"            "/inbound"
+check "module: agents"             "/agents"
+
 echo "All checks passed."

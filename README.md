@@ -15,3 +15,13 @@
   &nbsp;
   <img src="https://img.shields.io/badge/%E2%97%8F%20open__to__collab-1a1b26?style=for-the-badge&labelColor=1a1b26&color=9ece6a" alt="open to collab" />
 </p>
+
+<!-- WHAT I DO -->
+<h3 align="center">═══ what i do ═══</h3>
+
+```text
+/outbound    AI-personalized outbound · WhatsApp dispatchers
+/revops      pipeline data · feedback funnels · CRM hygiene
+/inbound     landing pages · lifecycle · launch films
+/agents      AI agents that do GTM work end-to-end
+```
