@@ -46,4 +46,9 @@ check "repo: voice-skill"          "github.com/afk1997/voice-skill-file-twitter-
 check "repo: reddit-exporter"      "github.com/afk1997/reddit-thread-exporter"
 check "repo: quiz-arena"           "github.com/afk1997/Quiz-Arena"
 
+# Task 6: Activity widgets
+check "widget: activity graph"     "github-readme-activity-graph.vercel.app"
+check "widget: snake"              "github-snake-dark.svg"
+check "widget: stats card"         "github-readme-stats.vercel.app"
+
 echo "All checks passed."

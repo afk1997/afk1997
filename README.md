@@ -40,3 +40,20 @@
 
 #### ⚔️ [quiz-arena](https://github.com/afk1997/Quiz-Arena)
 > real-time PvP quiz arena. 1v1 duels, PIN rooms, daily challenges, creator studio. Express + WS + Drizzle + Postgres + Redis + Vite.
+
+<!-- ACTIVITY -->
+<h3 align="center">═══ activity ═══</h3>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=afk1997&bg_color=1a1b26&color=a9b1d6&line=7aa2f7&point=9ece6a&area=true&hide_border=true" alt="contribution graph" width="98%" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/afk1997/afk1997/output/github-snake-dark.svg" alt="snake eating my contributions" width="98%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=afk1997&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&include_all_commits=true&count_private=true" alt="github stats" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afk1997&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&langs_count=8" alt="top languages" />
+</p>
