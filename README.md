@@ -25,3 +25,18 @@
 /inbound     landing pages · lifecycle · launch films
 /agents      AI agents that do GTM work end-to-end
 ```
+
+<!-- SHIPPED -->
+<h3 align="center">═══ shipped (recent) ═══</h3>
+
+#### 🐦 [trove](https://github.com/afk1997/trove)  ·  17⭐
+> a saving machine for the modern web. paste a link, get the file, transcribe it, edit the transcript like a doc. all local. yt-dlp + ffmpeg + whisper.cpp.
+
+#### 🎙 [voice-skill-file-twitter-x](https://github.com/afk1997/voice-skill-file-twitter-x)
+> voice intelligence studio. turn a brand's X archive into a Skill File → generate, score, revise tweets that sound native. not a prompt. an evidence pipeline.
+
+#### 📥 [reddit-thread-exporter](https://github.com/afk1997/reddit-thread-exporter)
+> chrome extension. one click → clean Reddit threads as JSON, Markdown, or rich-clipboard. bulk extract from search pages, full reply trees, research-intelligence workspace.
+
+#### ⚔️ [quiz-arena](https://github.com/afk1997/Quiz-Arena)
+> real-time PvP quiz arena. 1v1 duels, PIN rooms, daily challenges, creator studio. Express + WS + Drizzle + Postgres + Redis + Vite.

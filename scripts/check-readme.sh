@@ -40,4 +40,10 @@ check "module: revops"             "/revops"
 check "module: inbound"            "/inbound"
 check "module: agents"             "/agents"
 
+# Task 5: Shipped repos
+check "repo: trove"                "github.com/afk1997/trove"
+check "repo: voice-skill"          "github.com/afk1997/voice-skill-file-twitter-x"
+check "repo: reddit-exporter"      "github.com/afk1997/reddit-thread-exporter"
+check "repo: quiz-arena"           "github.com/afk1997/Quiz-Arena"
+
 echo "All checks passed."
