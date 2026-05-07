@@ -57,3 +57,24 @@
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afk1997&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&langs_count=8" alt="top languages" />
 </p>
+
+<!-- CONNECT -->
+<h3 align="center">═══ connect ═══</h3>
+
+<p align="center">
+  <a href="https://linkedin.com/in/sparkinlife">
+    <img src="https://img.shields.io/badge/LinkedIn-1a1b26?style=for-the-badge&logo=linkedin&logoColor=7aa2f7" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:kaivandoshi1997@gmail.com">
+    <img src="https://img.shields.io/badge/Email-1a1b26?style=for-the-badge&logo=gmail&logoColor=f7768e" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://x.com/0xStonks">
+    <img src="https://img.shields.io/badge/X-1a1b26?style=for-the-badge&logo=x&logoColor=a9b1d6" alt="X / Twitter" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>vibecoded · india · 2026</sub>
+</p>

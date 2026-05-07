@@ -51,4 +51,9 @@ check "widget: activity graph"     "github-readme-activity-graph.vercel.app"
 check "widget: snake"              "github-snake-dark.svg"
 check "widget: stats card"         "github-readme-stats.vercel.app"
 
+# Task 7: Connect
+check "connect: linkedin"          "linkedin.com/in/sparkinlife"
+check "connect: email"             "kaivandoshi1997@gmail.com"
+check "connect: x"                 "x.com/0xStonks"
+
 echo "All checks passed."
