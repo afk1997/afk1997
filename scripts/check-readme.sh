@@ -30,4 +30,8 @@ echo "Checking README.md..."
 check "banner: capsule-render"     "capsule-render.vercel.app/api"
 check "banner: typing svg"         "readme-typing-svg.demolab.com"
 
+# Task 3: Status pills
+check "status: open_to_work"       "open__to__work"
+check "status: open_to_collab"     "open__to__collab"
+
 echo "All checks passed."
