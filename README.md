@@ -35,7 +35,7 @@ chrome extension. one click → clean Reddit threads as JSON, Markdown, or rich-
 
 ## play chess against me
 
-![chess board](https://raw.githubusercontent.com/afk1997/afk1997/main/chess/board.svg?cachebust=1778216375723)
+![chess board](https://raw.githubusercontent.com/afk1997/afk1997/main/chess/board.svg?v=200de70c)
 
 **White** to move. Click any link below to play that move — opens a pre-filled GitHub issue, the bot replies automatically.
 

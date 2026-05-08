@@ -45,9 +45,13 @@ function buildChessBlock() {
     footer = `\n_${reason}. the next move resets the board._\n`;
   }
 
+  // Cachebust the board image with a hash of the FEN so the URL only changes
+  // when the position actually changes (keeps git diffs clean across no-op runs).
+  const cb = require('crypto').createHash('sha1').update(fen).digest('hex').slice(0, 8);
+
   return `## play chess against me
 
-![chess board](https://raw.githubusercontent.com/${REPO}/main/chess/board.svg?cachebust=${Date.now()})
+![chess board](https://raw.githubusercontent.com/${REPO}/main/chess/board.svg?v=${cb})
 
 **${turn}** to move. Click any link below to play that move — opens a pre-filled GitHub issue, the bot replies automatically.
 
