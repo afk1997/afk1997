@@ -1,0 +1,14 @@
+{
+  "name": "afk1997-profile",
+  "version": "1.0.0",
+  "private": true,
+  "type": "commonjs",
+  "scripts": {
+    "render": "node chess/render.js",
+    "move": "node chess/move.js",
+    "update-readme": "node chess/update-readme.js"
+  },
+  "dependencies": {
+    "chess.js": "1.4.0"
+  }
+}
