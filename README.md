@@ -24,7 +24,12 @@ chrome extension. one click → clean Reddit threads as JSON, Markdown, or rich-
 
 ---
 
-<!-- PACMAN_PLACEHOLDER -->
+## play with my contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/afk1997/afk1997/output/pacman-contribution-graph-dark.svg">
+  <img alt="pacman eats my contributions" src="https://raw.githubusercontent.com/afk1997/afk1997/output/pacman-contribution-graph.svg" />
+</picture>
 
 <!-- CHESS_START -->
 <!-- CHESS_END -->
