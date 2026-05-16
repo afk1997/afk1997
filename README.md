@@ -1,13 +1,3 @@
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/21102986?v=4" width="120" style="border-radius: 50%;" alt="Kaivan Doshi" />
-</p>
-
-<h1 align="center">Kaivan Doshi</h1>
-<p align="center"><strong>GTM Engineer</strong></p>
-<p align="center"><em>Engaging people with tech.</em></p>
-
----
-
 ## what i'm building
 
 ### [trove](https://github.com/afk1997/trove)  ·  17⭐
