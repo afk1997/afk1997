@@ -1,6 +1,6 @@
 ## what i'm building
 
-### [trove](https://github.com/afk1997/trove)  ·  17⭐
+### [trove](https://github.com/afk1997/trove)  ·  19⭐
 paste a link, get the file. transcribe it, edit the transcript like a doc. all local. yt-dlp + ffmpeg + whisper.cpp.
 
 ### [voice-skill-file-twitter-x](https://github.com/afk1997/voice-skill-file-twitter-x)
