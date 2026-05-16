@@ -3,14 +3,14 @@
 ### [trove](https://github.com/afk1997/trove)  ·  19⭐
 paste a link, get the file. transcribe it, edit the transcript like a doc. all local. yt-dlp + ffmpeg + whisper.cpp.
 
-### [voice-skill-file-twitter-x](https://github.com/afk1997/voice-skill-file-twitter-x)
-voice studio. a brand's X archive becomes a Skill File that generates, scores, and revises tweets that sound native. not a prompt — an evidence pipeline.
+### Spool - To be launched in public on 21st May, 2026
+A voice studio. A brand's X archive becomes a Skill File that generates, scores, and revises tweets that sound exactly like the brand. 
 
-### [quiz-arena](https://github.com/afk1997/Quiz-Arena)
+### Quiz Arena - Building on-chain. 
 real-time PvP quiz arena. 1v1 duels, PIN rooms, daily challenges, creator studio.
 
-### [reddit-thread-exporter](https://github.com/afk1997/reddit-thread-exporter)
-chrome extension. one click → clean Reddit threads as JSON, Markdown, or rich-clipboard. bulk extract from search pages, full reply trees.
+### Reddit Intelligence - To be launched in public on 30th May, 2026
+Find opportunities in real-time for AEO / GEO, mine subreddits to spot product gaps, narratives, know what people are talking about you, and track competitors. All locally, 100% open-source. 
 
 ---
 
