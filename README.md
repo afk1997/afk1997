@@ -9,7 +9,7 @@ A voice studio. A brand's X archive becomes a Skill File that generates, scores,
 ### Quiz Arena - Building on-chain. 
 real-time PvP quiz arena. 1v1 duels, PIN rooms, daily challenges, creator studio.
 
-### Reddit Intelligence - To be launched in public on 30th May, 2026 (tetative)
+### Reddit Intelligence - To be launched in public after GPT 5.6 release
 Find opportunities in real-time for AEO / GEO, mine subreddits to spot product gaps, narratives, know what people are talking about you, and track competitors. All locally, 100% open-source. 
 
 ---
