@@ -1,6 +1,6 @@
 ## what i'm building
 
-### [trove](https://github.com/afk1997/trove)  ·  19⭐
+### [trove](https://github.com/afk1997/trove)  ·  20⭐
 paste a link, get the file. transcribe it, edit the transcript like a doc. all local. yt-dlp + ffmpeg + whisper.cpp.
 
 ### Spool - To be launched in public on after 4 days from GPT 5.6 release (don't want to clash it)
