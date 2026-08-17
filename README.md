@@ -3,8 +3,11 @@
 ### [trove](https://github.com/afk1997/trove)  ·  20⭐
 paste a link, get the file. transcribe it, edit the transcript like a doc. all local. yt-dlp + ffmpeg + whisper.cpp.
 
-### Reddit Intelligence - building at [Build Something Wonderful](https://buildsomethingwonderful.com)
-Find opportunities in real-time for AEO / GEO, mine subreddits to spot product gaps, narratives, know what people are talking about you, and track competitors. 
+### [GTMCat](https://gtmcat.xyz) - building at [Build Something Wonderful](https://buildsomethingwonderful.com)
+Find conversations adjacent to your product / service and participate in it for AEO / GEO and user conversion. Mine subreddits to spot product gaps, narratives, know what people are talking about you, and track KW's and competitors.
+
+### Xmyway - a way to engage with everyone on X 
+Find tweets related to your product / website / service, engage with them and DM people with your offerings.
 
 ### V0ice 4 agents 
 A voice studio. A brand's X archive becomes a Skill File that generates, scores, and revises tweets that sound exactly like the brand. 
